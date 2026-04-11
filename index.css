@@ -8,3 +8,8 @@
 h1{
     color: white;
 }
+header{
+    background-color: gold;
+    color: black;
+    padding: 2rem;
+}
