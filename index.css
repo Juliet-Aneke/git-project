@@ -21,3 +21,7 @@ header{
 
 .features {
     background-color: green;
+
+    .content{
+        background-color: green;
+    }
