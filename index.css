@@ -13,3 +13,8 @@ header{
     color: black;
     padding: 2rem;
 }
+
+.hero{
+    background-color: yellow;
+    color: white;
+}
