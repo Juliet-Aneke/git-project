@@ -14,6 +14,7 @@ header{
     padding: 2rem;
 }
 
+
 .hero{
     background-color: yellow;
     color: white;
@@ -28,4 +29,9 @@ header{
 footer{
     background-color: brown;
     padding: 4rem 0;
+}
+
+.contact{
+    color: green;
+    background-color: aqua;
 }
