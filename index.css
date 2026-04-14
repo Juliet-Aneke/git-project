@@ -25,3 +25,7 @@ header{
     .content{
         background-color: green;
     }
+footer{
+    background-color: brown;
+    padding: 4rem 0;
+}
