@@ -35,3 +35,9 @@ footer{
     color: green;
     background-color: aqua;
 }
+
+.pricing{
+    color: white;
+    background-color: brown;
+    border: 1px solid white;
+}
