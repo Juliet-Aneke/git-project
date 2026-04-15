@@ -2,11 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: blue;
+    
 }
 
 h1{
     color: white;
+    background-color: blueviolet;
 }
 header{
     background-color: gold;
@@ -22,11 +23,12 @@ header{
 
 .features {
     background-color: green;
+}
 
-    .content{
-        background-color: green;
+.contact{
+        background-color: blue;
     }
-footer{
+.footer{
     background-color: brown;
     padding: 4rem 0;
 }
@@ -38,6 +40,10 @@ footer{
 
 .pricing{
     color: white;
-    background-color: brown;
-    border: 1px solid white;
+}
+
+.latest{
+    color: blue;
+    background-color: red;
+    font-weight: 900;
 }
